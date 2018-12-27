@@ -1,6 +1,6 @@
 {
   "name": "@pushrocks/weblogo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "an adaptable representation for a logo of a website, covering favicon, to main banner logo",
   "main": "dist/index.js",
