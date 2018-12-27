@@ -15,6 +15,6 @@ export class WebLogo implements IWebLogo {
   svgSquared: string;
   favIcon: string;
   constructor(baseUrl: string) {
-
+    
   }
 }
