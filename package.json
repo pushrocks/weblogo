@@ -1,0 +1,24 @@
+{
+  "name": "@pushrocks/weblogo",
+  "version": "1.0.1",
+  "private": false,
+  "description": "an adaptable representation for a logo of a website, covering favicon, to main banner logo",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "scripts": {
+    "test": "(tstest test/)",
+    "build": "(tsbuild)",
+    "format": "(gitzone format)"
+  },
+  "devDependencies": {
+    "@gitzone/tsbuild": "^2.1.4",
+    "@gitzone/tstest": "^1.0.18",
+    "@pushrocks/tapbundle": "^3.0.7",
+    "@types/node": "^10.12.18",
+    "tslint": "^5.12.0",
+    "tslint-config-prettier": "^1.17.0"
+  },
+  "dependencies": {}
+}
